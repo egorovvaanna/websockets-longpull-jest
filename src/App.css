@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin: 20px;
+  border: 1px solid blue;
+  padding: 20px;
+}
+.message{
+  border: 1px solid blue;
+  padding: 10px;
+}
